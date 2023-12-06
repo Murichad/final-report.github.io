@@ -105,16 +105,11 @@ video.frame-media_left {
 	right: 32vw;
 }
 .frame h3 {
-	font-size: 24px;
+	font-size: 32px;
 	width: 450px;
 }
 .frame p {
 	margin-top: 3vh;
 	width: 450px;
-	font-size: 16px;
-}
-.frame span {
-	margin-top: 3vh;
-	width: 450px;
-	font-size: 12px;
+	font-size: 18px;
 }
